@@ -8,7 +8,7 @@
 
 - **Programming languages**:
   - 🐍 `Python`. I use it for automation, bot development (Telegram/Discord), working with files and databases, and solving various technical problems.
-- **Data analysis**:
+- **Data Science**:
   - 📈 I specialize in `data analysis` — I enjoy interpreting data, identifying patterns, and presenting insights in a clear and meaningful way. I regularly use `SQL` to retrieve and work with structured data in my projects.  
 - **Web development**:
   - 🌐 `HTML, CSS, JavaScript, Flask`. Experience in building and maintaining websites and small web applications.
